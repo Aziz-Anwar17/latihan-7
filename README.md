@@ -1,3 +1,7 @@
+# Latihan 7 — Personal Portfolio
+
+A personal portfolio/landing page built with React and [React MDL](https://react-mdl.github.io/react-mdl/). Features an about me page, resume, projects, and contact section.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
